@@ -3,7 +3,7 @@ Finalists in Arduino Day hackathon 2019
 
 An autonomous life boat concept.
 
-#Approach:
+# **Approach:**
 
 1. Detect humans (using a camera right now, would switch to heat dissipation values in the future for more accurate results)
 2. Travel toward the body
